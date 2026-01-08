@@ -1,0 +1,1352 @@
+[
+  {
+    "code": "CLIENT0001",
+    "name": "Roberto Díaz",
+    "phone": "5552000001",
+    "email": "roberto.diaz1@telmex.com",
+    "address": "Calle Cliente 1, Huauchinango, Puebla, México",
+    "zone": "Huauchinango, Puebla",
+    "registration_date": "2025-12-01T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0002",
+    "name": "Lucía Fernández",
+    "phone": "5552000002",
+    "email": "lucia.fernandez2@telmex.com",
+    "address": "Calle Cliente 2, Huauchinango, Puebla, México",
+    "zone": "Huauchinango, Puebla",
+    "registration_date": "2025-12-02T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0003",
+    "name": "Pedro González",
+    "phone": "5552000003",
+    "email": "pedro.gonzalez3@telmex.com",
+    "address": "Calle Cliente 3, Huauchinango, Puebla, México",
+    "zone": "Huauchinango, Puebla",
+    "registration_date": "2025-12-03T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0004",
+    "name": "Sandra Jiménez",
+    "phone": "5552000004",
+    "email": "sandra.jimenez4@telmex.com",
+    "address": "Calle Cliente 4, Huauchinango, Puebla, México",
+    "zone": "Huauchinango, Puebla",
+    "registration_date": "2025-12-04T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0005",
+    "name": "Javier Castro",
+    "phone": "5552000005",
+    "email": "javier.castro5@telmex.com",
+    "address": "Calle Cliente 5, Huauchinango, Puebla, México",
+    "zone": "Huauchinango, Puebla",
+    "registration_date": "2025-12-05T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0006",
+    "name": "Marina López",
+    "phone": "5552000006",
+    "email": "marina.lopez6@telmex.com",
+    "address": "Av. Reforma 1, Ciudad de México, México",
+    "zone": "Ciudad de México",
+    "registration_date": "2025-12-06T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0007",
+    "name": "Héctor Ramírez",
+    "phone": "5552000007",
+    "email": "hector.ramirez7@telmex.com",
+    "address": "Av. Reforma 2, Ciudad de México, México",
+    "zone": "Ciudad de México",
+    "registration_date": "2025-12-07T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0008",
+    "name": "Patricia Gómez",
+    "phone": "5552000008",
+    "email": "patricia.gomez8@telmex.com",
+    "address": "Calle 5 de Mayo 1, Puebla, México",
+    "zone": "Puebla",
+    "registration_date": "2025-12-08T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0009",
+    "name": "Jorge Torres",
+    "phone": "5552000009",
+    "email": "jorge.torres9@telmex.com",
+    "address": "Calle 5 de Mayo 2, Puebla, México",
+    "zone": "Puebla",
+    "registration_date": "2025-12-09T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0010",
+    "name": "Ana Ruiz",
+    "phone": "5552000010",
+    "email": "ana.ruiz10@telmex.com",
+    "address": "Av. Constitución 1, Monterrey, México",
+    "zone": "Monterrey",
+    "registration_date": "2025-12-10T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0011",
+    "name": "Luis Mendoza",
+    "phone": "5552000011",
+    "email": "luis.mendoza11@telmex.com",
+    "address": "Av. Constitución 2, Monterrey, México",
+    "zone": "Monterrey",
+    "registration_date": "2025-12-11T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0012",
+    "name": "Gabriela Silva",
+    "phone": "5552000012",
+    "email": "gabriela.silva12@telmex.com",
+    "address": "Av. Juárez 1, Guadalajara, México",
+    "zone": "Guadalajara",
+    "registration_date": "2025-12-12T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0013",
+    "name": "Ricardo Jiménez",
+    "phone": "5552000013",
+    "email": "ricardo.jimenez13@telmex.com",
+    "address": "Av. Juárez 2, Guadalajara, México",
+    "zone": "Guadalajara",
+    "registration_date": "2025-12-13T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0014",
+    "name": "Verónica Castro",
+    "phone": "5552000014",
+    "email": "veronica.castro14@telmex.com",
+    "address": "Calle 60 1, Mérida, México",
+    "zone": "Mérida",
+    "registration_date": "2025-12-14T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0015",
+    "name": "Javier Ramos",
+    "phone": "5552000015",
+    "email": "javier.ramos15@telmex.com",
+    "address": "Calle 60 2, Mérida, México",
+    "zone": "Mérida",
+    "registration_date": "2025-12-15T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0016",
+    "name": "Carmen Ortiz",
+    "phone": "5552000016",
+    "email": "carmen.ortiz16@telmex.com",
+    "address": "Av. Revolución 1, Tijuana, México",
+    "zone": "Tijuana",
+    "registration_date": "2025-12-16T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0017",
+    "name": "Alberto Vargas",
+    "phone": "5552000017",
+    "email": "alberto.vargas17@telmex.com",
+    "address": "Av. Revolución 2, Tijuana, México",
+    "zone": "Tijuana",
+    "registration_date": "2025-12-17T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0018",
+    "name": "Isabel Domínguez",
+    "phone": "5552000018",
+    "email": "isabel.dominguez18@telmex.com",
+    "address": "Av. Tulum 1, Cancún, México",
+    "zone": "Cancún",
+    "registration_date": "2025-12-18T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0019",
+    "name": "Francisco Morales",
+    "phone": "5552000019",
+    "email": "francisco.morales19@telmex.com",
+    "address": "Av. Tulum 2, Cancún, México",
+    "zone": "Cancún",
+    "registration_date": "2025-12-19T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0020",
+    "name": "Mónica Cortés",
+    "phone": "5552000020",
+    "email": "monica.cortes20@telmex.com",
+    "address": "Av. Corregidora 1, Querétaro, México",
+    "zone": "Querétaro",
+    "registration_date": "2025-12-20T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0021",
+    "name": "Roberto Díaz",
+    "phone": "5552000021",
+    "email": "roberto.diaz21@telmex.com",
+    "address": "Av. Corregidora 2, Querétaro, México",
+    "zone": "Querétaro",
+    "registration_date": "2025-12-21T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0022",
+    "name": "Lucía Fernández",
+    "phone": "5552000022",
+    "email": "lucia.fernandez22@telmex.com",
+    "address": "Blvd. Adolfo López Mateos 1, León, México",
+    "zone": "León",
+    "registration_date": "2025-12-22T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0023",
+    "name": "Pedro González",
+    "phone": "5552000023",
+    "email": "pedro.gonzalez23@telmex.com",
+    "address": "Blvd. Adolfo López Mateos 2, León, México",
+    "zone": "León",
+    "registration_date": "2025-12-23T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0024",
+    "name": "Sandra Jiménez",
+    "phone": "5552000024",
+    "email": "sandra.jimenez24@telmex.com",
+    "address": "Av. Independencia 1, Toluca, México",
+    "zone": "Toluca",
+    "registration_date": "2025-12-24T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0025",
+    "name": "Javier Castro",
+    "phone": "5552000025",
+    "email": "javier.castro25@telmex.com",
+    "address": "Av. Independencia 2, Toluca, México",
+    "zone": "Toluca",
+    "registration_date": "2025-12-25T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0026",
+    "name": "Marina López",
+    "phone": "5552000026",
+    "email": "marina.lopez26@telmex.com",
+    "address": "Calle Victoria 1, Saltillo, México",
+    "zone": "Saltillo",
+    "registration_date": "2025-12-26T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0027",
+    "name": "Héctor Ramírez",
+    "phone": "5552000027",
+    "email": "hector.ramirez27@telmex.com",
+    "address": "Calle Victoria 2, Saltillo, México",
+    "zone": "Saltillo",
+    "registration_date": "2025-12-27T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0028",
+    "name": "Patricia Gómez",
+    "phone": "5552000028",
+    "email": "patricia.gomez28@telmex.com",
+    "address": "Av. Madero 1, Morelia, México",
+    "zone": "Morelia",
+    "registration_date": "2025-12-28T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0029",
+    "name": "Jorge Torres",
+    "phone": "5552000029",
+    "email": "jorge.torres29@telmex.com",
+    "address": "Av. Madero 2, Morelia, México",
+    "zone": "Morelia",
+    "registration_date": "2025-12-29T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0030",
+    "name": "Ana Ruiz",
+    "phone": "5552000030",
+    "email": "ana.ruiz30@telmex.com",
+    "address": "Av. Independencia 1, Veracruz, México",
+    "zone": "Veracruz",
+    "registration_date": "2025-12-30T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0031",
+    "name": "Luis Mendoza",
+    "phone": "5552000031",
+    "email": "luis.mendoza31@telmex.com",
+    "address": "Av. Independencia 2, Veracruz, México",
+    "zone": "Veracruz",
+    "registration_date": "2025-12-31T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0032",
+    "name": "Gabriela Silva",
+    "phone": "5552000032",
+    "email": "gabriela.silva32@telmex.com",
+    "address": "Blvd. Kino 1, Hermosillo, México",
+    "zone": "Hermosillo",
+    "registration_date": "2026-01-01T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0033",
+    "name": "Ricardo Jiménez",
+    "phone": "5552000033",
+    "email": "ricardo.jimenez33@telmex.com",
+    "address": "Blvd. Kino 2, Hermosillo, México",
+    "zone": "Hermosillo",
+    "registration_date": "2026-01-02T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0034",
+    "name": "Verónica Castro",
+    "phone": "5552000034",
+    "email": "veronica.castro34@telmex.com",
+    "address": "Calle Alcalá 1, Oaxaca, México",
+    "zone": "Oaxaca",
+    "registration_date": "2026-01-03T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0035",
+    "name": "Javier Ramos",
+    "phone": "5552000035",
+    "email": "javier.ramos35@telmex.com",
+    "address": "Calle Alcalá 2, Oaxaca, México",
+    "zone": "Oaxaca",
+    "registration_date": "2026-01-04T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0036",
+    "name": "Carmen Ortiz",
+    "phone": "5552000036",
+    "email": "carmen.ortiz36@telmex.com",
+    "address": "Av. Álvaro Obregón 1, Culiacán, México",
+    "zone": "Culiacán",
+    "registration_date": "2026-01-05T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0037",
+    "name": "Alberto Vargas",
+    "phone": "5552000037",
+    "email": "alberto.vargas37@telmex.com",
+    "address": "Av. Álvaro Obregón 2, Culiacán, México",
+    "zone": "Culiacán",
+    "registration_date": "2026-01-06T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0038",
+    "name": "Isabel Domínguez",
+    "phone": "5552000038",
+    "email": "isabel.dominguez38@telmex.com",
+    "address": "Av. Universidad 1, Chihuahua, México",
+    "zone": "Chihuahua",
+    "registration_date": "2026-01-07T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0039",
+    "name": "Francisco Morales",
+    "phone": "5552000039",
+    "email": "francisco.morales39@telmex.com",
+    "address": "Av. Universidad 2, Chihuahua, México",
+    "zone": "Chihuahua",
+    "registration_date": "2026-01-08T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0040",
+    "name": "Mónica Cortés",
+    "phone": "5552000040",
+    "email": "monica.cortes40@telmex.com",
+    "address": "Av. Carranza 1, San Luis Potosí, México",
+    "zone": "San Luis Potosí",
+    "registration_date": "2026-01-09T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0041",
+    "name": "Roberto Díaz",
+    "phone": "5552000041",
+    "email": "roberto.diaz41@telmex.com",
+    "address": "Av. Carranza 2, San Luis Potosí, México",
+    "zone": "San Luis Potosí",
+    "registration_date": "2026-01-10T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0042",
+    "name": "Lucía Fernández",
+    "phone": "5552000042",
+    "email": "lucia.fernandez42@telmex.com",
+    "address": "Av. Madero 1, Aguascalientes, México",
+    "zone": "Aguascalientes",
+    "registration_date": "2026-01-11T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0043",
+    "name": "Pedro González",
+    "phone": "5552000043",
+    "email": "pedro.gonzalez43@telmex.com",
+    "address": "Av. Madero 2, Aguascalientes, México",
+    "zone": "Aguascalientes",
+    "registration_date": "2026-01-12T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0044",
+    "name": "Sandra Jiménez",
+    "phone": "5552000044",
+    "email": "sandra.jimenez44@telmex.com",
+    "address": "Calle 59 1, Campeche, México",
+    "zone": "Campeche",
+    "registration_date": "2026-01-13T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0045",
+    "name": "Javier Castro",
+    "phone": "5552000045",
+    "email": "javier.castro45@telmex.com",
+    "address": "Calle 59 2, Campeche, México",
+    "zone": "Campeche",
+    "registration_date": "2026-01-14T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0046",
+    "name": "Marina López",
+    "phone": "5552000046",
+    "email": "marina.lopez46@telmex.com",
+    "address": "Calle 5 de Febrero 1, Oaxaca, México",
+    "zone": "Oaxaca",
+    "registration_date": "2026-01-15T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0047",
+    "name": "Héctor Ramírez",
+    "phone": "5552000047",
+    "email": "hector.ramirez47@telmex.com",
+    "address": "Calle 5 de Febrero 2, Oaxaca, México",
+    "zone": "Oaxaca",
+    "registration_date": "2026-01-16T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0048",
+    "name": "Patricia Gómez",
+    "phone": "5552000048",
+    "email": "patricia.gomez48@telmex.com",
+    "address": "Av. Juárez 1, León, México",
+    "zone": "León",
+    "registration_date": "2026-01-17T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0049",
+    "name": "Jorge Torres",
+    "phone": "5552000049",
+    "email": "jorge.torres49@telmex.com",
+    "address": "Av. Juárez 2, León, México",
+    "zone": "León",
+    "registration_date": "2026-01-18T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0050",
+    "name": "Ana Ruiz",
+    "phone": "5552000050",
+    "email": "ana.ruiz50@telmex.com",
+    "address": "Av. Hidalgo 1, San Luis Potosí, México",
+    "zone": "San Luis Potosí",
+    "registration_date": "2026-01-19T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0051",
+    "name": "Luis Mendoza",
+    "phone": "5552000051",
+    "email": "luis.mendoza51@telmex.com",
+    "address": "Av. Hidalgo 2, San Luis Potosí, México",
+    "zone": "San Luis Potosí",
+    "registration_date": "2026-01-20T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0052",
+    "name": "Gabriela Silva",
+    "phone": "5552000052",
+    "email": "gabriela.silva52@telmex.com",
+    "address": "Blvd. Revolución 1, Tijuana, México",
+    "zone": "Tijuana",
+    "registration_date": "2026-01-21T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0053",
+    "name": "Ricardo Jiménez",
+    "phone": "5552000053",
+    "email": "ricardo.jimenez53@telmex.com",
+    "address": "Blvd. Revolución 2, Tijuana, México",
+    "zone": "Tijuana",
+    "registration_date": "2026-01-22T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0054",
+    "name": "Verónica Castro",
+    "phone": "5552000054",
+    "email": "veronica.castro54@telmex.com",
+    "address": "Calle 16 de Septiembre 1, Puebla, México",
+    "zone": "Puebla",
+    "registration_date": "2026-01-23T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0055",
+    "name": "Javier Ramos",
+    "phone": "5552000055",
+    "email": "javier.ramos55@telmex.com",
+    "address": "Calle 16 de Septiembre 2, Puebla, México",
+    "zone": "Puebla",
+    "registration_date": "2026-01-24T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0056",
+    "name": "Carmen Ortiz",
+    "phone": "5552000056",
+    "email": "carmen.ortiz56@telmex.com",
+    "address": "Av. Juárez 1, Cancún, México",
+    "zone": "Cancún",
+    "registration_date": "2026-01-25T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0057",
+    "name": "Alberto Vargas",
+    "phone": "5552000057",
+    "email": "alberto.vargas57@telmex.com",
+    "address": "Av. Juárez 2, Cancún, México",
+    "zone": "Cancún",
+    "registration_date": "2026-01-26T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0058",
+    "name": "Isabel Domínguez",
+    "phone": "5552000058",
+    "email": "isabel.dominguez58@telmex.com",
+    "address": "Av. Tulum 1, Mérida, México",
+    "zone": "Mérida",
+    "registration_date": "2026-01-27T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0059",
+    "name": "Francisco Morales",
+    "phone": "5552000059",
+    "email": "francisco.morales59@telmex.com",
+    "address": "Av. Tulum 2, Mérida, México",
+    "zone": "Mérida",
+    "registration_date": "2026-01-28T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0060",
+    "name": "Mónica Cortés",
+    "phone": "5552000060",
+    "email": "monica.cortes60@telmex.com",
+    "address": "Av. Corregidora 1, Querétaro, México",
+    "zone": "Querétaro",
+    "registration_date": "2026-01-29T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0061",
+    "name": "Roberto Díaz",
+    "phone": "5552000061",
+    "email": "roberto.diaz61@telmex.com",
+    "address": "Av. Corregidora 2, Querétaro, México",
+    "zone": "Querétaro",
+    "registration_date": "2026-01-30T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0062",
+    "name": "Lucía Fernández",
+    "phone": "5552000062",
+    "email": "lucia.fernandez62@telmex.com",
+    "address": "Blvd. Adolfo López Mateos 1, León, México",
+    "zone": "León",
+    "registration_date": "2026-01-31T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0063",
+    "name": "Pedro González",
+    "phone": "5552000063",
+    "email": "pedro.gonzalez63@telmex.com",
+    "address": "Blvd. Adolfo López Mateos 2, León, México",
+    "zone": "León",
+    "registration_date": "2026-02-01T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0064",
+    "name": "Sandra Jiménez",
+    "phone": "5552000064",
+    "email": "sandra.jimenez64@telmex.com",
+    "address": "Av. Independencia 1, Toluca, México",
+    "zone": "Toluca",
+    "registration_date": "2026-02-02T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0065",
+    "name": "Javier Castro",
+    "phone": "5552000065",
+    "email": "javier.castro65@telmex.com",
+    "address": "Av. Independencia 2, Toluca, México",
+    "zone": "Toluca",
+    "registration_date": "2026-02-03T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0066",
+    "name": "Marina López",
+    "phone": "5552000066",
+    "email": "marina.lopez66@telmex.com",
+    "address": "Calle Victoria 1, Saltillo, México",
+    "zone": "Saltillo",
+    "registration_date": "2026-02-04T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0067",
+    "name": "Héctor Ramírez",
+    "phone": "5552000067",
+    "email": "hector.ramirez67@telmex.com",
+    "address": "Calle Victoria 2, Saltillo, México",
+    "zone": "Saltillo",
+    "registration_date": "2026-02-05T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0068",
+    "name": "Patricia Gómez",
+    "phone": "5552000068",
+    "email": "patricia.gomez68@telmex.com",
+    "address": "Av. Madero 1, Morelia, México",
+    "zone": "Morelia",
+    "registration_date": "2026-02-06T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0069",
+    "name": "Jorge Torres",
+    "phone": "5552000069",
+    "email": "jorge.torres69@telmex.com",
+    "address": "Av. Madero 2, Morelia, México",
+    "zone": "Morelia",
+    "registration_date": "2026-02-07T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0070",
+    "name": "Ana Ruiz",
+    "phone": "5552000070",
+    "email": "ana.ruiz70@telmex.com",
+    "address": "Av. Independencia 1, Veracruz, México",
+    "zone": "Veracruz",
+    "registration_date": "2026-02-08T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0071",
+    "name": "Luis Mendoza",
+    "phone": "5552000071",
+    "email": "luis.mendoza71@telmex.com",
+    "address": "Av. Independencia 2, Veracruz, México",
+    "zone": "Veracruz",
+    "registration_date": "2026-02-09T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0072",
+    "name": "Gabriela Silva",
+    "phone": "5552000072",
+    "email": "gabriela.silva72@telmex.com",
+    "address": "Blvd. Kino 1, Hermosillo, México",
+    "zone": "Hermosillo",
+    "registration_date": "2026-02-10T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0073",
+    "name": "Ricardo Jiménez",
+    "phone": "5552000073",
+    "email": "ricardo.jimenez73@telmex.com",
+    "address": "Blvd. Kino 2, Hermosillo, México",
+    "zone": "Hermosillo",
+    "registration_date": "2026-02-11T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0074",
+    "name": "Verónica Castro",
+    "phone": "5552000074",
+    "email": "veronica.castro74@telmex.com",
+    "address": "Calle Alcalá 1, Oaxaca, México",
+    "zone": "Oaxaca",
+    "registration_date": "2026-02-12T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0075",
+    "name": "Javier Ramos",
+    "phone": "5552000075",
+    "email": "javier.ramos75@telmex.com",
+    "address": "Calle Alcalá 2, Oaxaca, México",
+    "zone": "Oaxaca",
+    "registration_date": "2026-02-13T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0076",
+    "name": "Carmen Ortiz",
+    "phone": "5552000076",
+    "email": "carmen.ortiz76@telmex.com",
+    "address": "Av. Álvaro Obregón 1, Culiacán, México",
+    "zone": "Culiacán",
+    "registration_date": "2026-02-14T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0077",
+    "name": "Alberto Vargas",
+    "phone": "5552000077",
+    "email": "alberto.vargas77@telmex.com",
+    "address": "Av. Álvaro Obregón 2, Culiacán, México",
+    "zone": "Culiacán",
+    "registration_date": "2026-02-15T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0078",
+    "name": "Isabel Domínguez",
+    "phone": "5552000078",
+    "email": "isabel.dominguez78@telmex.com",
+    "address": "Av. Universidad 1, Chihuahua, México",
+    "zone": "Chihuahua",
+    "registration_date": "2026-02-16T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0079",
+    "name": "Francisco Morales",
+    "phone": "5552000079",
+    "email": "francisco.morales79@telmex.com",
+    "address": "Av. Universidad 2, Chihuahua, México",
+    "zone": "Chihuahua",
+    "registration_date": "2026-02-17T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0080",
+    "name": "Mónica Cortés",
+    "phone": "5552000080",
+    "email": "monica.cortes80@telmex.com",
+    "address": "Av. Carranza 1, San Luis Potosí, México",
+    "zone": "San Luis Potosí",
+    "registration_date": "2026-02-18T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0081",
+    "name": "Roberto Díaz",
+    "phone": "5552000081",
+    "email": "roberto.diaz81@telmex.com",
+    "address": "Av. Carranza 2, San Luis Potosí, México",
+    "zone": "San Luis Potosí",
+    "registration_date": "2026-02-19T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0082",
+    "name": "Lucía Fernández",
+    "phone": "5552000082",
+    "email": "lucia.fernandez82@telmex.com",
+    "address": "Av. Madero 1, Aguascalientes, México",
+    "zone": "Aguascalientes",
+    "registration_date": "2026-02-20T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0083",
+    "name": "Pedro González",
+    "phone": "5552000083",
+    "email": "pedro.gonzalez83@telmex.com",
+    "address": "Av. Madero 2, Aguascalientes, México",
+    "zone": "Aguascalientes",
+    "registration_date": "2026-02-21T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0084",
+    "name": "Sandra Jiménez",
+    "phone": "5552000084",
+    "email": "sandra.jimenez84@telmex.com",
+    "address": "Calle 59 1, Campeche, México",
+    "zone": "Campeche",
+    "registration_date": "2026-02-22T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0085",
+    "name": "Javier Castro",
+    "phone": "5552000085",
+    "email": "javier.castro85@telmex.com",
+    "address": "Calle 59 2, Campeche, México",
+    "zone": "Campeche",
+    "registration_date": "2026-02-23T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0086",
+    "name": "Marina López",
+    "phone": "5552000086",
+    "email": "marina.lopez86@telmex.com",
+    "address": "Calle 5 de Febrero 1, Oaxaca, México",
+    "zone": "Oaxaca",
+    "registration_date": "2026-02-24T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0087",
+    "name": "Héctor Ramírez",
+    "phone": "5552000087",
+    "email": "hector.ramirez87@telmex.com",
+    "address": "Calle 5 de Febrero 2, Oaxaca, México",
+    "zone": "Oaxaca",
+    "registration_date": "2026-02-25T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0088",
+    "name": "Patricia Gómez",
+    "phone": "5552000088",
+    "email": "patricia.gomez88@telmex.com",
+    "address": "Av. Juárez 1, León, México",
+    "zone": "León",
+    "registration_date": "2026-02-26T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0089",
+    "name": "Jorge Torres",
+    "phone": "5552000089",
+    "email": "jorge.torres89@telmex.com",
+    "address": "Av. Juárez 2, León, México",
+    "zone": "León",
+    "registration_date": "2026-02-27T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0090",
+    "name": "Ana Ruiz",
+    "phone": "5552000090",
+    "email": "ana.ruiz90@telmex.com",
+    "address": "Av. Hidalgo 1, San Luis Potosí, México",
+    "zone": "San Luis Potosí",
+    "registration_date": "2026-02-28T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0091",
+    "name": "Luis Mendoza",
+    "phone": "5552000091",
+    "email": "luis.mendoza91@telmex.com",
+    "address": "Av. Hidalgo 2, San Luis Potosí, México",
+    "zone": "San Luis Potosí",
+    "registration_date": "2026-03-01T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0092",
+    "name": "Gabriela Silva",
+    "phone": "5552000092",
+    "email": "gabriela.silva92@telmex.com",
+    "address": "Blvd. Revolución 1, Tijuana, México",
+    "zone": "Tijuana",
+    "registration_date": "2026-03-02T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0093",
+    "name": "Ricardo Jiménez",
+    "phone": "5552000093",
+    "email": "ricardo.jimenez93@telmex.com",
+    "address": "Blvd. Revolución 2, Tijuana, México",
+    "zone": "Tijuana",
+    "registration_date": "2026-03-03T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0094",
+    "name": "Verónica Castro",
+    "phone": "5552000094",
+    "email": "veronica.castro94@telmex.com",
+    "address": "Calle 16 de Septiembre 1, Puebla, México",
+    "zone": "Puebla",
+    "registration_date": "2026-03-04T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0095",
+    "name": "Javier Ramos",
+    "phone": "5552000095",
+    "email": "javier.ramos95@telmex.com",
+    "address": "Calle 16 de Septiembre 2, Puebla, México",
+    "zone": "Puebla",
+    "registration_date": "2026-03-05T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0096",
+    "name": "Carmen Ortiz",
+    "phone": "5552000096",
+    "email": "carmen.ortiz94@telmex.com",
+    "address": "Av. Juárez 1, Cancún, México",
+    "zone": "Cancún",
+    "registration_date": "2026-03-06T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0097",
+    "name": "Alberto Vargas",
+    "phone": "5552000097",
+    "email": "alberto.vargas97@telmex.com",
+    "address": "Av. Juárez 2, Cancún, México",
+    "zone": "Cancún",
+    "registration_date": "2026-03-07T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0098",
+    "name": "Isabel Domínguez",
+    "phone": "5552000098",
+    "email": "isabel.dominguez98@telmex.com",
+    "address": "Av. Tulum 1, Mérida, México",
+    "zone": "Mérida",
+    "registration_date": "2026-03-08T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0099",
+    "name": "Francisco Morales",
+    "phone": "5552000099",
+    "email": "francisco.morales99@telmex.com",
+    "address": "Av. Tulum 2, Mérida, México",
+    "zone": "Mérida",
+    "registration_date": "2026-03-09T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0100",
+    "name": "Mónica Cortés",
+    "phone": "5552000100",
+    "email": "monica.cortes100@telmex.com",
+    "address": "Av. Corregidora 1, Querétaro, México",
+    "zone": "Querétaro",
+    "registration_date": "2026-03-10T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0101",
+    "name": "Roberto Díaz",
+    "phone": "5552000101",
+    "email": "roberto.diaz101@telmex.com",
+    "address": "Av. Corregidora 2, Querétaro, México",
+    "zone": "Querétaro",
+    "registration_date": "2026-03-11T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0102",
+    "name": "Lucía Fernández",
+    "phone": "5552000102",
+    "email": "lucia.fernandez102@telmex.com",
+    "address": "Blvd. Adolfo López Mateos 1, León, México",
+    "zone": "León",
+    "registration_date": "2026-03-12T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0103",
+    "name": "Pedro González",
+    "phone": "5552000103",
+    "email": "pedro.gonzalez103@telmex.com",
+    "address": "Blvd. Adolfo López Mateos 2, León, México",
+    "zone": "León",
+    "registration_date": "2026-03-13T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0104",
+    "name": "Sandra Jiménez",
+    "phone": "5552000104",
+    "email": "sandra.jimenez104@telmex.com",
+    "address": "Av. Independencia 1, Toluca, México",
+    "zone": "Toluca",
+    "registration_date": "2026-03-14T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0105",
+    "name": "Javier Castro",
+    "phone": "5552000105",
+    "email": "javier.castro105@telmex.com",
+    "address": "Av. Independencia 2, Toluca, México",
+    "zone": "Toluca",
+    "registration_date": "2026-03-15T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0106",
+    "name": "Marina López",
+    "phone": "5552000106",
+    "email": "marina.lopez106@telmex.com",
+    "address": "Calle Victoria 1, Saltillo, México",
+    "zone": "Saltillo",
+    "registration_date": "2026-03-16T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0107",
+    "name": "Héctor Ramírez",
+    "phone": "5552000107",
+    "email": "hector.ramirez107@telmex.com",
+    "address": "Calle Victoria 2, Saltillo, México",
+    "zone": "Saltillo",
+    "registration_date": "2026-03-17T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0108",
+    "name": "Patricia Gómez",
+    "phone": "5552000108",
+    "email": "patricia.gomez108@telmex.com",
+    "address": "Av. Madero 1, Morelia, México",
+    "zone": "Morelia",
+    "registration_date": "2026-03-18T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0109",
+    "name": "Jorge Torres",
+    "phone": "5552000109",
+    "email": "jorge.torres109@telmex.com",
+    "address": "Av. Madero 2, Morelia, México",
+    "zone": "Morelia",
+    "registration_date": "2026-03-19T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0110",
+    "name": "Ana Ruiz",
+    "phone": "5552000110",
+    "email": "ana.ruiz110@telmex.com",
+    "address": "Av. Independencia 1, Veracruz, México",
+    "zone": "Veracruz",
+    "registration_date": "2026-03-20T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0111",
+    "name": "Luis Mendoza",
+    "phone": "5552000111",
+    "email": "luis.mendoza111@telmex.com",
+    "address": "Av. Independencia 2, Veracruz, México",
+    "zone": "Veracruz",
+    "registration_date": "2026-03-21T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0112",
+    "name": "Gabriela Silva",
+    "phone": "5552000112",
+    "email": "gabriela.silva112@telmex.com",
+    "address": "Blvd. Kino 1, Hermosillo, México",
+    "zone": "Hermosillo",
+    "registration_date": "2026-03-22T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0113",
+    "name": "Ricardo Jiménez",
+    "phone": "5552000113",
+    "email": "ricardo.jimenez113@telmex.com",
+    "address": "Blvd. Kino 2, Hermosillo, México",
+    "zone": "Hermosillo",
+    "registration_date": "2026-03-23T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0114",
+    "name": "Verónica Castro",
+    "phone": "5552000114",
+    "email": "veronica.castro114@telmex.com",
+    "address": "Calle Alcalá 1, Oaxaca, México",
+    "zone": "Oaxaca",
+    "registration_date": "2026-03-24T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0115",
+    "name": "Javier Ramos",
+    "phone": "5552000115",
+    "email": "javier.ramos115@telmex.com",
+    "address": "Calle Alcalá 2, Oaxaca, México",
+    "zone": "Oaxaca",
+    "registration_date": "2026-03-25T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0116",
+    "name": "Carmen Ortiz",
+    "phone": "5552000116",
+    "email": "carmen.ortiz116@telmex.com",
+    "address": "Av. Álvaro Obregón 1, Culiacán, México",
+    "zone": "Culiacán",
+    "registration_date": "2026-03-26T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0117",
+    "name": "Alberto Vargas",
+    "phone": "5552000117",
+    "email": "alberto.vargas117@telmex.com",
+    "address": "Av. Álvaro Obregón 2, Culiacán, México",
+    "zone": "Culiacán",
+    "registration_date": "2026-03-27T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0118",
+    "name": "Isabel Domínguez",
+    "phone": "5552000118",
+    "email": "isabel.dominguez118@telmex.com",
+    "address": "Av. Universidad 1, Chihuahua, México",
+    "zone": "Chihuahua",
+    "registration_date": "2026-03-28T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0119",
+    "name": "Francisco Morales",
+    "phone": "5552000119",
+    "email": "francisco.morales119@telmex.com",
+    "address": "Av. Universidad 2, Chihuahua, México",
+    "zone": "Chihuahua",
+    "registration_date": "2026-03-29T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0120",
+    "name": "Mónica Cortés",
+    "phone": "5552000120",
+    "email": "monica.cortes120@telmex.com",
+    "address": "Av. Carranza 1, San Luis Potosí, México",
+    "zone": "San Luis Potosí",
+    "registration_date": "2026-03-30T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0121",
+    "name": "Roberto Díaz",
+    "phone": "5552000121",
+    "email": "roberto.diaz121@telmex.com",
+    "address": "Av. Carranza 2, San Luis Potosí, México",
+    "zone": "San Luis Potosí",
+    "registration_date": "2026-03-31T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0122",
+    "name": "Lucía Fernández",
+    "phone": "5552000122",
+    "email": "lucia.fernandez122@telmex.com",
+    "address": "Av. Madero 1, Aguascalientes, México",
+    "zone": "Aguascalientes",
+    "registration_date": "2026-04-01T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0123",
+    "name": "Pedro González",
+    "phone": "5552000123",
+    "email": "pedro.gonzalez123@telmex.com",
+    "address": "Av. Madero 2, Aguascalientes, México",
+    "zone": "Aguascalientes",
+    "registration_date": "2026-04-02T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0124",
+    "name": "Sandra Jiménez",
+    "phone": "5552000124",
+    "email": "sandra.jimenez124@telmex.com",
+    "address": "Calle 59 1, Campeche, México",
+    "zone": "Campeche",
+    "registration_date": "2026-04-03T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0125",
+    "name": "Javier Castro",
+    "phone": "5552000125",
+    "email": "javier.castro125@telmex.com",
+    "address": "Calle 59 2, Campeche, México",
+    "zone": "Campeche",
+    "registration_date": "2026-04-04T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0126",
+    "name": "Marina López",
+    "phone": "5552000126",
+    "email": "marina.lopez126@telmex.com",
+    "address": "Calle 5 de Febrero 1, Oaxaca, México",
+    "zone": "Oaxaca",
+    "registration_date": "2026-04-05T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0127",
+    "name": "Héctor Ramírez",
+    "phone": "5552000127",
+    "email": "hector.ramirez127@telmex.com",
+    "address": "Calle 5 de Febrero 2, Oaxaca, México",
+    "zone": "Oaxaca",
+    "registration_date": "2026-04-06T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0128",
+    "name": "Patricia Gómez",
+    "phone": "5552000128",
+    "email": "patricia.gomez128@telmex.com",
+    "address": "Av. Juárez 1, León, México",
+    "zone": "León",
+    "registration_date": "2026-04-07T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0129",
+    "name": "Jorge Torres",
+    "phone": "5552000129",
+    "email": "jorge.torres129@telmex.com",
+    "address": "Av. Juárez 2, León, México",
+    "zone": "León",
+    "registration_date": "2026-04-08T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0130",
+    "name": "Ana Ruiz",
+    "phone": "5552000130",
+    "email": "ana.ruiz130@telmex.com",
+    "address": "Av. Hidalgo 1, San Luis Potosí, México",
+    "zone": "San Luis Potosí",
+    "registration_date": "2026-04-09T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0131",
+    "name": "Luis Mendoza",
+    "phone": "5552000131",
+    "email": "luis.mendoza131@telmex.com",
+    "address": "Av. Hidalgo 2, San Luis Potosí, México",
+    "zone": "San Luis Potosí",
+    "registration_date": "2026-04-10T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0132",
+    "name": "Gabriela Silva",
+    "phone": "5552000132",
+    "email": "gabriela.silva132@telmex.com",
+    "address": "Blvd. Revolución 1, Tijuana, México",
+    "zone": "Tijuana",
+    "registration_date": "2026-04-11T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0133",
+    "name": "Ricardo Jiménez",
+    "phone": "5552000133",
+    "email": "ricardo.jimenez133@telmex.com",
+    "address": "Blvd. Revolución 2, Tijuana, México",
+    "zone": "Tijuana",
+    "registration_date": "2026-04-12T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0134",
+    "name": "Verónica Castro",
+    "phone": "5552000134",
+    "email": "veronica.castro134@telmex.com",
+    "address": "Calle 16 de Septiembre 1, Puebla, México",
+    "zone": "Puebla",
+    "registration_date": "2026-04-13T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0135",
+    "name": "Javier Ramos",
+    "phone": "5552000135",
+    "email": "javier.ramos135@telmex.com",
+    "address": "Calle 16 de Septiembre 2, Puebla, México",
+    "zone": "Puebla",
+    "registration_date": "2026-04-14T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0136",
+    "name": "Carmen Ortiz",
+    "phone": "5552000136",
+    "email": "carmen.ortiz136@telmex.com",
+    "address": "Av. Juárez 1, Cancún, México",
+    "zone": "Cancún",
+    "registration_date": "2026-04-15T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0137",
+    "name": "Alberto Vargas",
+    "phone": "5552000137",
+    "email": "alberto.vargas137@telmex.com",
+    "address": "Av. Juárez 2, Cancún, México",
+    "zone": "Cancún",
+    "registration_date": "2026-04-16T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0138",
+    "name": "Isabel Domínguez",
+    "phone": "5552000138",
+    "email": "isabel.dominguez138@telmex.com",
+    "address": "Av. Tulum 1, Mérida, México",
+    "zone": "Mérida",
+    "registration_date": "2026-04-17T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0139",
+    "name": "Francisco Morales",
+    "phone": "5552000139",
+    "email": "francisco.morales139@telmex.com",
+    "address": "Av. Tulum 2, Mérida, México",
+    "zone": "Mérida",
+    "registration_date": "2026-04-18T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0140",
+    "name": "Mónica Cortés",
+    "phone": "5552000140",
+    "email": "monica.cortes140@telmex.com",
+    "address": "Av. Corregidora 1, Querétaro, México",
+    "zone": "Querétaro",
+    "registration_date": "2026-04-19T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0141",
+    "name": "Roberto Díaz",
+    "phone": "5552000141",
+    "email": "roberto.diaz141@telmex.com",
+    "address": "Av. Corregidora 2, Querétaro, México",
+    "zone": "Querétaro",
+    "registration_date": "2026-04-20T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0142",
+    "name": "Lucía Fernández",
+    "phone": "5552000142",
+    "email": "lucia.fernandez142@telmex.com",
+    "address": "Blvd. Adolfo López Mateos 1, León, México",
+    "zone": "León",
+    "registration_date": "2026-04-21T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0143",
+    "name": "Pedro González",
+    "phone": "5552000143",
+    "email": "pedro.gonzalez143@telmex.com",
+    "address": "Blvd. Adolfo López Mateos 2, León, México",
+    "zone": "León",
+    "registration_date": "2026-04-22T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0144",
+    "name": "Sandra Jiménez",
+    "phone": "5552000144",
+    "email": "sandra.jimenez144@telmex.com",
+    "address": "Av. Independencia 1, Toluca, México",
+    "zone": "Toluca",
+    "registration_date": "2026-04-23T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0145",
+    "name": "Javier Castro",
+    "phone": "5552000145",
+    "email": "javier.castro145@telmex.com",
+    "address": "Av. Independencia 2, Toluca, México",
+    "zone": "Toluca",
+    "registration_date": "2026-04-24T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0146",
+    "name": "Marina López",
+    "phone": "5552000146",
+    "email": "marina.lopez146@telmex.com",
+    "address": "Calle Victoria 1, Saltillo, México",
+    "zone": "Saltillo",
+    "registration_date": "2026-04-25T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0147",
+    "name": "Héctor Ramírez",
+    "phone": "5552000147",
+    "email": "hector.ramirez147@telmex.com",
+    "address": "Calle Victoria 2, Saltillo, México",
+    "zone": "Saltillo",
+    "registration_date": "2026-04-26T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0148",
+    "name": "Patricia Gómez",
+    "phone": "5552000148",
+    "email": "patricia.gomez148@telmex.com",
+    "address": "Av. Madero 1, Morelia, México",
+    "zone": "Morelia",
+    "registration_date": "2026-04-27T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0149",
+    "name": "Jorge Torres",
+    "phone": "5552000149",
+    "email": "jorge.torres149@telmex.com",
+    "address": "Av. Madero 2, Morelia, México",
+    "zone": "Morelia",
+    "registration_date": "2026-04-28T10:00:00Z"
+  },
+  {
+    "code": "CLIENT0150",
+    "name": "Ana Ruiz",
+    "phone": "5552000150",
+    "email": "ana.ruiz150@telmex.com",
+    "address": "Av. Independencia 1, Veracruz, México",
+    "zone": "Veracruz",
+    "registration_date": "2026-04-29T10:00:00Z"
+  }
+]

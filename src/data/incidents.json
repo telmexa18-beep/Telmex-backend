@@ -1,0 +1,602 @@
+[
+  {
+    "code": "INCIDENT0001",
+    "description": "Corte de energía en poste 1.",
+    "report_date": "2025-10-10T09:00:00Z",
+    "status": "Pendiente",
+    "priority": "Alta",
+    "client": "CLIENT0001",
+    "worker": "WORKER0001",
+    "pole": "POLE0001"
+  },
+  {
+    "code": "INCIDENT0002",
+    "description": "Falla de conexión en poste 2.",
+    "report_date": "2025-11-15T11:30:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0002",
+    "worker": "WORKER0002",
+    "pole": "POLE0002"
+  },
+  {
+    "code": "INCIDENT0003",
+    "description": "Cable dañado en poste 3.",
+    "report_date": "2025-12-05T14:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0003",
+    "worker": "WORKER0003",
+    "pole": "POLE0003"
+  },
+  {
+    "code": "INCIDENT0004",
+    "description": "Interferencia en señal poste 4.",
+    "report_date": "2025-12-20T16:00:00Z",
+    "status": "Pendiente",
+    "priority": "Baja",
+    "client": "CLIENT0004",
+    "worker": "WORKER0004",
+    "pole": "POLE0004"
+  },
+  {
+    "code": "INCIDENT0005",
+    "description": "Poste inclinado por viento.",
+    "report_date": "2026-01-01T08:00:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0005",
+    "worker": "WORKER0005",
+    "pole": "POLE0005"
+  },
+  {
+    "code": "INCIDENT0006",
+    "description": "Corte de energía en poste 6.",
+    "report_date": "2025-10-20T09:00:00Z",
+    "status": "Pendiente",
+    "priority": "Alta",
+    "client": "CLIENT0001",
+    "worker": "WORKER0006",
+    "pole": "POLE0006"
+  },
+  {
+    "code": "INCIDENT0007",
+    "description": "Falla de conexión en poste 7.",
+    "report_date": "2025-11-25T11:30:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0002",
+    "worker": "WORKER0007",
+    "pole": "POLE0007"
+  },
+  {
+    "code": "INCIDENT0008",
+    "description": "Cable dañado en poste 8.",
+    "report_date": "2025-12-15T14:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0003",
+    "worker": "WORKER0008",
+    "pole": "POLE0008"
+  },
+  {
+    "code": "INCIDENT0009",
+    "description": "Interferencia en señal poste 9.",
+    "report_date": "2025-12-25T16:00:00Z",
+    "status": "Pendiente",
+    "priority": "Baja",
+    "client": "CLIENT0004",
+    "worker": "WORKER0009",
+    "pole": "POLE0009"
+  },
+  {
+    "code": "INCIDENT0010",
+    "description": "Poste inclinado por viento.",
+    "report_date": "2026-01-05T08:00:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0005",
+    "worker": "WORKER0010",
+    "pole": "POLE0010"
+  },
+  {
+    "code": "INCIDENT0011",
+    "description": "Falla de conexión en poste Huauchinango.",
+    "report_date": "2025-12-10T10:00:00Z",
+    "status": "Pendiente",
+    "priority": "Alta",
+    "client": "CLIENT0001",
+    "worker": "WORKER0001",
+    "pole": "POLE0001"
+  },
+  {
+    "code": "INCIDENT0012",
+    "description": "Cable dañado en poste Huauchinango.",
+    "report_date": "2025-12-12T12:00:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0002",
+    "worker": "WORKER0002",
+    "pole": "POLE0002"
+  },
+  {
+    "code": "INCIDENT0013",
+    "description": "Interferencia en señal poste Huauchinango.",
+    "report_date": "2025-12-14T14:00:00Z",
+    "status": "Resuelto",
+    "priority": "Baja",
+    "client": "CLIENT0003",
+    "worker": "WORKER0003",
+    "pole": "POLE0003"
+  },
+  {
+    "code": "INCIDENT0014",
+    "description": "Poste inclinado por viento en Huauchinango.",
+    "report_date": "2025-12-16T16:00:00Z",
+    "status": "Pendiente",
+    "priority": "Media",
+    "client": "CLIENT0004",
+    "worker": "WORKER0001",
+    "pole": "POLE0004"
+  },
+  {
+    "code": "INCIDENT0015",
+    "description": "Corte de energía en Huauchinango.",
+    "report_date": "2025-12-18T18:00:00Z",
+    "status": "En progreso",
+    "priority": "Alta",
+    "client": "CLIENT0005",
+    "worker": "WORKER0002",
+    "pole": "POLE0005"
+  },
+  {
+    "code": "INCIDENT0016",
+    "description": "Falla de conexión en poste Huauchinango.",
+    "report_date": "2025-12-20T10:00:00Z",
+    "status": "Pendiente",
+    "priority": "Media",
+    "client": "CLIENT0001",
+    "worker": "WORKER0003",
+    "pole": "POLE0006"
+  },
+  {
+    "code": "INCIDENT0017",
+    "description": "Cable dañado en poste Huauchinango.",
+    "report_date": "2025-12-22T12:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0002",
+    "worker": "WORKER0001",
+    "pole": "POLE0007"
+  },
+  {
+    "code": "INCIDENT0018",
+    "description": "Interferencia en señal poste Huauchinango.",
+    "report_date": "2025-12-24T14:00:00Z",
+    "status": "Pendiente",
+    "priority": "Baja",
+    "client": "CLIENT0003",
+    "worker": "WORKER0002",
+    "pole": "POLE0008"
+  },
+  {
+    "code": "INCIDENT0019",
+    "description": "Poste inclinado por viento en Huauchinango.",
+    "report_date": "2025-12-26T16:00:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0004",
+    "worker": "WORKER0003",
+    "pole": "POLE0009"
+  },
+  {
+    "code": "INCIDENT0020",
+    "description": "Corte de energía en Huauchinango.",
+    "report_date": "2025-12-28T18:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0005",
+    "worker": "WORKER0001",
+    "pole": "POLE0010"
+  },
+  {
+    "code": "INCIDENT0021",
+    "description": "Falla de conexión en poste Huauchinango.",
+    "report_date": "2025-12-30T10:00:00Z",
+    "status": "Pendiente",
+    "priority": "Media",
+    "client": "CLIENT0001",
+    "worker": "WORKER0002",
+    "pole": "POLE0011"
+  },
+  {
+    "code": "INCIDENT0022",
+    "description": "Cable dañado en poste Huauchinango.",
+    "report_date": "2026-01-01T12:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0002",
+    "worker": "WORKER0003",
+    "pole": "POLE0012"
+  },
+  {
+    "code": "INCIDENT0023",
+    "description": "Interferencia en señal poste Huauchinango.",
+    "report_date": "2026-01-02T14:00:00Z",
+    "status": "Pendiente",
+    "priority": "Baja",
+    "client": "CLIENT0003",
+    "worker": "WORKER0001",
+    "pole": "POLE0013"
+  },
+  {
+    "code": "INCIDENT0024",
+    "description": "Poste inclinado por viento en Huauchinango.",
+    "report_date": "2026-01-03T16:00:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0004",
+    "worker": "WORKER0002",
+    "pole": "POLE0014"
+  },
+  {
+    "code": "INCIDENT0025",
+    "description": "Corte de energía en Huauchinango.",
+    "report_date": "2026-01-04T18:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0005",
+    "worker": "WORKER0003",
+    "pole": "POLE0015"
+  },
+  {
+    "code": "INCIDENT0026",
+    "description": "Corte de energía en CDMX.",
+    "report_date": "2026-01-05T09:00:00Z",
+    "status": "Pendiente",
+    "priority": "Alta",
+    "client": "CLIENT0006",
+    "worker": "WORKER0004",
+    "pole": "POLE0021"
+  },
+  {
+    "code": "INCIDENT0027",
+    "description": "Falla de conexión en CDMX.",
+    "report_date": "2026-01-06T11:30:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0007",
+    "worker": "WORKER0004",
+    "pole": "POLE0022"
+  },
+  {
+    "code": "INCIDENT0028",
+    "description": "Cable dañado en Puebla.",
+    "report_date": "2026-01-07T14:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0008",
+    "worker": "WORKER0009",
+    "pole": "POLE0023"
+  },
+  {
+    "code": "INCIDENT0029",
+    "description": "Interferencia en señal Monterrey.",
+    "report_date": "2026-01-08T16:00:00Z",
+    "status": "Pendiente",
+    "priority": "Baja",
+    "client": "CLIENT0010",
+    "worker": "WORKER0015",
+    "pole": "POLE0025"
+  },
+  {
+    "code": "INCIDENT0030",
+    "description": "Poste inclinado por viento Guadalajara.",
+    "report_date": "2026-01-09T08:00:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0012",
+    "worker": "WORKER0017",
+    "pole": "POLE0027"
+  },
+  {
+    "code": "INCIDENT0031",
+    "description": "Corte de energía en Mérida.",
+    "report_date": "2026-01-10T09:00:00Z",
+    "status": "Pendiente",
+    "priority": "Alta",
+    "client": "CLIENT0014",
+    "worker": "WORKER0019",
+    "pole": "POLE0029"
+  },
+  {
+    "code": "INCIDENT0032",
+    "description": "Falla de conexión en Tijuana.",
+    "report_date": "2026-01-11T11:30:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0016",
+    "worker": "WORKER0008",
+    "pole": "POLE0031"
+  },
+  {
+    "code": "INCIDENT0033",
+    "description": "Cable dañado en Cancún.",
+    "report_date": "2026-01-12T14:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0018",
+    "worker": "WORKER0014",
+    "pole": "POLE0033"
+  },
+  {
+    "code": "INCIDENT0034",
+    "description": "Interferencia en señal Querétaro.",
+    "report_date": "2026-01-13T16:00:00Z",
+    "status": "Pendiente",
+    "priority": "Baja",
+    "client": "CLIENT0020",
+    "worker": "WORKER0015",
+    "pole": "POLE0035"
+  },
+  {
+    "code": "INCIDENT0035",
+    "description": "Poste inclinado por viento León.",
+    "report_date": "2026-01-14T08:00:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0022",
+    "worker": "WORKER0016",
+    "pole": "POLE0037"
+  },
+  {
+    "code": "INCIDENT0036",
+    "description": "Corte de energía en Saltillo.",
+    "report_date": "2026-01-15T09:00:00Z",
+    "status": "Pendiente",
+    "priority": "Alta",
+    "client": "CLIENT0026",
+    "worker": "WORKER0011",
+    "pole": "POLE0041"
+  },
+  {
+    "code": "INCIDENT0037",
+    "description": "Falla de conexión en Morelia.",
+    "report_date": "2026-01-16T11:30:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0028",
+    "worker": "WORKER0012",
+    "pole": "POLE0043"
+  },
+  {
+    "code": "INCIDENT0038",
+    "description": "Cable dañado en Veracruz.",
+    "report_date": "2026-01-17T14:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0030",
+    "worker": "WORKER0010",
+    "pole": "POLE0045"
+  },
+  {
+    "code": "INCIDENT0039",
+    "description": "Interferencia en señal Hermosillo.",
+    "report_date": "2026-01-18T16:00:00Z",
+    "status": "Pendiente",
+    "priority": "Baja",
+    "client": "CLIENT0032",
+    "worker": "WORKER0013",
+    "pole": "POLE0047"
+  },
+  {
+    "code": "INCIDENT0040",
+    "description": "Poste inclinado por viento Oaxaca.",
+    "report_date": "2026-01-19T08:00:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0034",
+    "worker": "WORKER0018",
+    "pole": "POLE0049"
+  },
+  {
+    "code": "INCIDENT0041",
+    "description": "Corte de energía en Culiacán.",
+    "report_date": "2026-01-20T09:00:00Z",
+    "status": "Pendiente",
+    "priority": "Alta",
+    "client": "CLIENT0036",
+    "worker": "WORKER0013",
+    "pole": "POLE0051"
+  },
+  {
+    "code": "INCIDENT0042",
+    "description": "Falla de conexión en Chihuahua.",
+    "report_date": "2026-01-21T11:30:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0038",
+    "worker": "WORKER0014",
+    "pole": "POLE0053"
+  },
+  {
+    "code": "INCIDENT0043",
+    "description": "Cable dañado en San Luis Potosí.",
+    "report_date": "2026-01-22T14:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0040",
+    "worker": "WORKER0015",
+    "pole": "POLE0055"
+  },
+  {
+    "code": "INCIDENT0044",
+    "description": "Interferencia en señal Aguascalientes.",
+    "report_date": "2026-01-23T16:00:00Z",
+    "status": "Pendiente",
+    "priority": "Baja",
+    "client": "CLIENT0042",
+    "worker": "WORKER0016",
+    "pole": "POLE0057"
+  },
+  {
+    "code": "INCIDENT0045",
+    "description": "Poste inclinado por viento Campeche.",
+    "report_date": "2026-01-24T08:00:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0044",
+    "worker": "WORKER0017",
+    "pole": "POLE0059"
+  },
+  {
+    "code": "INCIDENT0046",
+    "description": "Corte de energía en Durango.",
+    "report_date": "2026-01-25T09:00:00Z",
+    "status": "Pendiente",
+    "priority": "Alta",
+    "client": "CLIENT0046",
+    "worker": "WORKER0011",
+    "pole": "POLE0061"
+  },
+  {
+    "code": "INCIDENT0047",
+    "description": "Falla de conexión en Zacatecas.",
+    "report_date": "2026-01-26T11:30:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0048",
+    "worker": "WORKER0012",
+    "pole": "POLE0063"
+  },
+  {
+    "code": "INCIDENT0048",
+    "description": "Cable dañado en Coahuila.",
+    "report_date": "2026-01-27T14:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0050",
+    "worker": "WORKER0010",
+    "pole": "POLE0065"
+  },
+  {
+    "code": "INCIDENT0049",
+    "description": "Interferencia en señal Sinaloa.",
+    "report_date": "2026-01-28T16:00:00Z",
+    "status": "Pendiente",
+    "priority": "Baja",
+    "client": "CLIENT0052",
+    "worker": "WORKER0013",
+    "pole": "POLE0067"
+  },
+  {
+    "code": "INCIDENT0050",
+    "description": "Poste inclinado por viento Tabasco.",
+    "report_date": "2026-01-29T08:00:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0054",
+    "worker": "WORKER0018",
+    "pole": "POLE0069"
+  },
+  {
+    "code": "INCIDENT0051",
+    "description": "Corte de energía en Quintana Roo.",
+    "report_date": "2026-01-30T09:00:00Z",
+    "status": "Pendiente",
+    "priority": "Alta",
+    "client": "CLIENT0056",
+    "worker": "WORKER0013",
+    "pole": "POLE0071"
+  },
+  {
+    "code": "INCIDENT0052",
+    "description": "Falla de conexión en Tlaxcala.",
+    "report_date": "2026-01-31T11:30:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0058",
+    "worker": "WORKER0014",
+    "pole": "POLE0073"
+  },
+  {
+    "code": "INCIDENT0053",
+    "description": "Cable dañado en Nayarit.",
+    "report_date": "2026-02-01T14:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0060",
+    "worker": "WORKER0015",
+    "pole": "POLE0075"
+  },
+  {
+    "code": "INCIDENT0054",
+    "description": "Interferencia en señal Baja California.",
+    "report_date": "2026-02-02T16:00:00Z",
+    "status": "Pendiente",
+    "priority": "Baja",
+    "client": "CLIENT0062",
+    "worker": "WORKER0016",
+    "pole": "POLE0077"
+  },
+  {
+    "code": "INCIDENT0055",
+    "description": "Poste inclinado por viento Sonora.",
+    "report_date": "2026-02-03T08:00:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0064",
+    "worker": "WORKER0017",
+    "pole": "POLE0079"
+  },
+  {
+    "code": "INCIDENT0056",
+    "description": "Corte de energía en Aguascalientes.",
+    "report_date": "2026-02-04T09:00:00Z",
+    "status": "Pendiente",
+    "priority": "Alta",
+    "client": "CLIENT0066",
+    "worker": "WORKER0011",
+    "pole": "POLE0081"
+  },
+  {
+    "code": "INCIDENT0057",
+    "description": "Falla de conexión en Colima.",
+    "report_date": "2026-02-05T11:30:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0068",
+    "worker": "WORKER0012",
+    "pole": "POLE0083"
+  },
+  {
+    "code": "INCIDENT0058",
+    "description": "Cable dañado en Michoacán.",
+    "report_date": "2026-02-06T14:00:00Z",
+    "status": "Resuelto",
+    "priority": "Alta",
+    "client": "CLIENT0070",
+    "worker": "WORKER0010",
+    "pole": "POLE0085"
+  },
+  {
+    "code": "INCIDENT0059",
+    "description": "Interferencia en señal Guerrero.",
+    "report_date": "2026-02-07T16:00:00Z",
+    "status": "Pendiente",
+    "priority": "Baja",
+    "client": "CLIENT0072",
+    "worker": "WORKER0013",
+    "pole": "POLE0087"
+  },
+  {
+    "code": "INCIDENT0060",
+    "description": "Poste inclinado por viento Oaxaca.",
+    "report_date": "2026-02-08T08:00:00Z",
+    "status": "En progreso",
+    "priority": "Media",
+    "client": "CLIENT0074",
+    "worker": "WORKER0018",
+    "pole": "POLE0089"
+  }
+]

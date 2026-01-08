@@ -1,0 +1,202 @@
+[
+  {
+    "code": "WORKER0001",
+    "name": "Juan",
+    "last_name": "Pérez",
+    "email": "juan.perez1@telmex.com",
+    "password": "${WORKER_DEFAULT_PASSWORD}",
+    "phone": "5551000001",
+    "zone": "Huauchinango, Puebla",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0002",
+    "name": "María",
+    "last_name": "García",
+    "email": "maria.garcia2@telmex.com",
+    "password": "12345",
+    "phone": "5551000002",
+    "zone": "Huauchinango, Puebla",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0003",
+    "name": "Carlos",
+    "last_name": "Ramírez",
+    "email": "carlos.ramirez3@telmex.com",
+    "password": "12345",
+    "phone": "5551000003",
+    "zone": "Huauchinango, Puebla",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0004",
+    "name": "Ana",
+    "last_name": "López",
+    "email": "ana.lopez4@telmex.com",
+    "password": "12345",
+    "phone": "5551000004",
+    "zone": "CDMX",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0005",
+    "name": "Luis",
+    "last_name": "Martínez",
+    "email": "luis.martinez5@telmex.com",
+    "password": "12345",
+    "phone": "5551000005",
+    "zone": "Monterrey",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0006",
+    "name": "Sofía",
+    "last_name": "Hernández",
+    "email": "sofia.hernandez6@telmex.com",
+    "password": "12345",
+    "phone": "5551000006",
+    "zone": "Guadalajara",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0007",
+    "name": "Miguel",
+    "last_name": "Gómez",
+    "email": "miguel.gomez7@telmex.com",
+    "password": "12345",
+    "phone": "5551000007",
+    "zone": "Mérida",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0008",
+    "name": "Laura",
+    "last_name": "Ruiz",
+    "email": "laura.ruiz8@telmex.com",
+    "password": "12345",
+    "phone": "5551000008",
+    "zone": "Tijuana",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0009",
+    "name": "José",
+    "last_name": "Sánchez",
+    "email": "jose.sanchez9@telmex.com",
+    "password": "12345",
+    "phone": "5551000009",
+    "zone": "Puebla",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0010",
+    "name": "Patricia",
+    "last_name": "Torres",
+    "email": "patricia.torres10@telmex.com",
+    "password": "12345",
+    "phone": "5551000010",
+    "zone": "Veracruz",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0011",
+    "name": "Fernando",
+    "last_name": "Castro",
+    "email": "fernando.castro11@telmex.com",
+    "password": "12345",
+    "phone": "5551000011",
+    "zone": "Saltillo",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0012",
+    "name": "Gabriela",
+    "last_name": "Mendoza",
+    "email": "gabriela.mendoza12@telmex.com",
+    "password": "12345",
+    "phone": "5551000012",
+    "zone": "Morelia",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0013",
+    "name": "Ricardo",
+    "last_name": "Jiménez",
+    "email": "ricardo.jimenez13@telmex.com",
+    "password": "12345",
+    "phone": "5551000013",
+    "zone": "Culiacán",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0014",
+    "name": "Verónica",
+    "last_name": "Silva",
+    "email": "veronica.silva14@telmex.com",
+    "password": "12345",
+    "phone": "5551000014",
+    "zone": "Chihuahua",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0015",
+    "name": "Jorge",
+    "last_name": "Ramos",
+    "email": "jorge.ramos15@telmex.com",
+    "password": "12345",
+    "phone": "5551000015",
+    "zone": "San Luis Potosí",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0016",
+    "name": "Carmen",
+    "last_name": "Ortiz",
+    "email": "carmen.ortiz16@telmex.com",
+    "password": "12345",
+    "phone": "5551000016",
+    "zone": "Aguascalientes",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0017",
+    "name": "Alberto",
+    "last_name": "Vargas",
+    "email": "alberto.vargas17@telmex.com",
+    "password": "12345",
+    "phone": "5551000017",
+    "zone": "Campeche",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0018",
+    "name": "Isabel",
+    "last_name": "Domínguez",
+    "email": "isabel.dominguez18@telmex.com",
+    "password": "12345",
+    "phone": "5551000018",
+    "zone": "Oaxaca",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0019",
+    "name": "Francisco",
+    "last_name": "Morales",
+    "email": "francisco.morales19@telmex.com",
+    "password": "12345",
+    "phone": "5551000019",
+    "zone": "Tuxtla Gutiérrez",
+    "role": "Trabajador"
+  },
+  {
+    "code": "WORKER0020",
+    "name": "Mónica",
+    "last_name": "Cortés",
+    "email": "monica.cortes20@telmex.com",
+    "password": "12345",
+    "phone": "5551000020",
+    "zone": "Villahermosa",
+    "role": "Trabajador"
+  }
+]
