@@ -7,7 +7,7 @@ export const requestCode = async (req, res) => {
 
     console.log("EMAIL RECIBIDO:", email);
 
-    if (email !== process.env.ADMIN_EMAIL) {
+    if (email !== process.env.EMAIL_USER) {
       return res.status(400).json({ message: "Correo invalido" });
     }
 
