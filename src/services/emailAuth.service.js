@@ -1,24 +1,24 @@
-// src/services/email.service.js
-import nodemailer from "nodemailer";
+import sgMail from "@sendgrid/mail";
 
-const transporter = nodemailer.createTransport({
-  service: "gmail",
-  auth: {
-    user: process.env.EMAIL_USER,
-    pass: process.env.EMAIL_PASS,
-  },
-});
+sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
-export async function sendOtpEmail(email, code) {
-  return transporter.sendMail({
-    from: `"Admin" <${process.env.EMAIL_USER}>`,
-    to: email,
-    subject: "Tu código de acceso",
-    html: `
-      <h2>Código de inicio de sesión</h2>
-      <h1>${code}</h1>
-      <p>Expira en 5 minutos</p>
-    `,
-  });
-}
+export const sendOtpEmail = async (to, code) => {
+  const msg = {
+    to: to,
+    from: {
+      email: process.env.SENDGRID_FROM_EMAIL, // 🔴 OBLIGATORIO
+      name: "Telmex Soporte",                  // 🟢 Opcional
+    },
+    subject: "Código de verificación",
+    text: `Tu código de verificación es: ${code}`,
+    html: `<p>Tu código de verificación es: <b>${code}</b></p>`,
+  };
 
+  try {
+    await sgMail.send(msg);
+    console.log("📨 Correo enviado correctamente");
+  } catch (error) {
+    console.error("❌ ERROR SENDGRID:", error.response?.body || error);
+    throw new Error("Error enviando correo");
+  }
+};

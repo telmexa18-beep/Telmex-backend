@@ -11,6 +11,7 @@ import searchRoutes from "./routes/search.routes.js";
 import authRoutes from "./routes/auth.routes.js";
 import { connectMongo } from "./config/mongo.js";
 import adminAuthRoutes from "./routes/adminAuth.routes.js";
+
 const app = express();
 
 app.use(cors({

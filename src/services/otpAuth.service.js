@@ -23,3 +23,4 @@ export function verifyOtp(email, inputCode) {
   otpStore.delete(email);
   return true;
 }
+
