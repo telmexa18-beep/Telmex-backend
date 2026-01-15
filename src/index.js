@@ -3,8 +3,8 @@ dotenv.config();
 
 import express from "express";
 import cors from "cors";
-import os from "os";
 
+// Rutas
 import clientsRoutes from "./routes/clients.routes.js";
 import polesRoutes from "./routes/poles.routes.js";
 import incidentsRoutes from "./routes/incidents.routes.js";
@@ -17,30 +17,45 @@ import { connectMongo } from "./config/mongo.js";
 
 const app = express();
 
-/* 🔥 CORS BIEN CONFIGURADO */
+/* =======================
+   CORS (RENDER + LOCAL)
+======================= */
 app.use(cors({
   origin: [
-    "https://telmex-appw.onrender.com",
-    "http://localhost:3000"
+    "https://telmex-appw.onrender.com", // frontend Render
+    "http://localhost:3000"             // frontend local
   ],
-  methods: ["GET", "POST", "OPTIONS"],
+  methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type", "Authorization"],
+  credentials: true
 }));
 
-/* 🔥 PRE-FLIGHT (ESTO ES OBLIGATORIO) */
-app.options("*", cors());
-
+/* =======================
+   MIDDLEWARES
+======================= */
 app.use(express.json());
 
-// Rutas
+/* =======================
+   ROUTES
+======================= */
 app.use("/api/auth", authRoutes);
 app.use("/api/admin-auth", adminAuthRoutes);
+app.use("/api/clients", clientsRoutes);
 app.use("/api/poles", polesRoutes);
 app.use("/api/incidents", incidentsRoutes);
 app.use("/api/workers", workerRoutes);
-app.use("/api/clients", clientsRoutes);
 app.use("/api/search", searchRoutes);
 
+/* =======================
+   HEALTH CHECK (OPCIONAL)
+======================= */
+app.get("/", (req, res) => {
+  res.send("Telmex Backend OK 🚀");
+});
+
+/* =======================
+   SERVER
+======================= */
 const PORT = process.env.PORT || 3000;
 
 (async () => {
@@ -48,11 +63,11 @@ const PORT = process.env.PORT || 3000;
     await connectMongo();
 
     app.listen(PORT, "0.0.0.0", () => {
-      console.log(`Servidor corriendo en puerto ${PORT}`);
+      console.log(`🚀 Backend corriendo en puerto ${PORT}`);
     });
 
   } catch (error) {
-    console.error("Error al conectar con Mongo:", error);
+    console.error("❌ Error conectando a MongoDB:", error);
     process.exit(1);
   }
 })();
